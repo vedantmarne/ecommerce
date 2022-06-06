@@ -7,8 +7,6 @@
 - [Project architecture](#Project-architecture)
 - [Tools and Technologies](#technologies)
 - [Features](#features)
-- [Status](#status)
-- [Contact](#contact)
 
 ### Project architecture
  
@@ -49,10 +47,3 @@
    - Product recommendation 
    - Product catalog
    
-### Status:
-
-**Application status :** BETA 
-
-### Contact:
-
-Email : RainbowForestGit@gmail.com
